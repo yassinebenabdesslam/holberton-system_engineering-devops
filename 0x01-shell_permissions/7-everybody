@@ -1,2 +1,2 @@
 #!/bin/bush
-chmod u+g+o hello
+chmod +111 hello
