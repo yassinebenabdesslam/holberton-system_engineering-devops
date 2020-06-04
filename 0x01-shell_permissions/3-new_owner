@@ -1,3 +1,2 @@
 #!/bin/betty
-chown USER FILE
-
+chown betty hello
