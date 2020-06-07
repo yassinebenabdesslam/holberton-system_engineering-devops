@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 ls -l
+=======
+touch hello
+>>>>>>> 3ba3b915a77fed3ca3942b8837f6e27f91eb833c
