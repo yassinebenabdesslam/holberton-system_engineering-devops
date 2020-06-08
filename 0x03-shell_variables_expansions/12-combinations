@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}
+echo o{a..n} o{p..z}
