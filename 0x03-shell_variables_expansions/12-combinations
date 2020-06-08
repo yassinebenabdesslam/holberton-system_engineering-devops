@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%s\n" {a..n} {p..z} o{a..n} o{p..z} {a..n} {p..z} | tr " " "\n"
+echo {a..n}{a..z} o{a..n} o{p..z} {p..z}{a..z} | tr " " "\n"
